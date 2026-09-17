@@ -1,0 +1,32 @@
+/* =========================================================
+   COLORES Y MEDIDAS PRINCIPALES
+
+   Este es el archivo más fácil para cambiar la apariencia.
+   Modifica un color aquí y se actualizará en toda la página.
+   ========================================================= */
+
+:root {
+  /* Identidad visual conservada del primer prototipo */
+  --color-oscuro: #11161b;
+  --color-oscuro-2: #181f25;
+  --color-oscuro-3: #242c33;
+  --color-principal: #ff6b22;
+  --color-principal-hover: #ff8246;
+  --color-principal-suave: #fff0e8;
+
+  /* Fondos y textos */
+  --color-fondo: #f3f4f3;
+  --color-fondo-2: #e8eae9;
+  --color-blanco: #ffffff;
+  --color-texto: #20262b;
+  --color-texto-suave: #657078;
+  --color-borde: #d9dddc;
+  --color-whatsapp: #21a96b;
+
+  /* Medidas generales */
+  --ancho-maximo: 1240px;
+  --radio-grande: 26px;
+  --radio-medio: 16px;
+  --sombra: 0 24px 70px rgba(17, 22, 27, 0.14);
+  --cabecera: 82px;
+}
