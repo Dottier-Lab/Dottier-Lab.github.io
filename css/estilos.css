@@ -1587,3 +1587,6 @@ h3 {
   height: 23px;
   fill: currentColor;
 }
+.about-copy h2 {
+  letter-spacing: -2px;
+}
